@@ -1,0 +1,44 @@
+.bg-white-300 {
+  background: rgba(255, 255, 255, 0.3) !important;
+}
+
+.rounded-bottom-left {
+  border-radius: 0;
+  border-bottom-left-radius: .25rem!important;
+}
+
+.rounded-bottom-right {
+  border-radius: 0;
+  border-bottom-right-radius: .25rem!important;
+}
+
+.portcard img:hover {
+  -webkit-box-shadow: 3px 5px 14px 5px rgba(0,0,0,0.137); 
+  box-shadow: 3px 5px 14px 5px rgba(0, 0, 0, 0.137);
+}
+
+.mailto, .discord {
+  text-decoration-line:none;
+}
+
+/*
+     FILE ARCHIVED ON 06:43:11 May 25, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:26:44 Jul 21, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 129.702
+  exclusion.robots: 0.066
+  exclusion.robots.policy: 0.057
+  cdx.remote: 0.053
+  esindex: 0.009
+  LoadShardBlock: 103.287 (3)
+  PetaboxLoader3.datanode: 139.402 (5)
+  load_resource: 298.511
+  PetaboxLoader3.resolve: 217.755
+  loaddict: 49.448
+*/
